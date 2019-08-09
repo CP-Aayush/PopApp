@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">PopApp</string>
+    <string name="t_cs_apply"><![CDATA[T&Cs Apply*]]></string>
+    <string name="redeem_details">Create/Login to your Mekvahan account.\nSelect the service want to avail, Payment and choose your service Type in the transaction amount, in the next step use promo code NEW50 on App, complete the transaction to avail the cashback</string>
+    <string name="TnCdetails">Valid on successful Service/Bill Payments done till 31th October 2019.\nApplicable for New users only.\nNo minimum transaction only Valid only Once per New User/Credit/Debit Card/Mobile Number.\nCashback will be credited to your Mekcoins Wallet which can be redeemed within 365 days from the date of credit and is non transferable Not Valid for Add Cash Transactions and transactions done via Mekvahan Balance Offer is not applicable on virtual/prepaid/temporary/international cards NEW50 Promo Code has to be applied to avail cashback offer.\nWe reserve the right to end/modify any or all offers at our discretion without any prior notice.\nFor all other queries please email support@mekvahan.com .\nWe reserve the right to restrict cashback for any account with suspicious behavior or invalid details/credentials.\nMekvahan has the right to ask for documents to prove his/her identity for any account.</string>
+</resources>
